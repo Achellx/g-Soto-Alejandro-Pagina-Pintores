@@ -1,0 +1,14 @@
+{
+  "name": "sitiopintores",
+  "version": "1.0.0",
+  "description": "sitio web estatico con información de pintores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Soto Aguirre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
